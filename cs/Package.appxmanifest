@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
     <Identity
-      Name="52969smartlockpicking.com.BLEHackMe"
+      Name="lfgaming.blehackme"
       Publisher="CN=2B83EB3A-AF18-4313-A2C4-FB78906B3434"
       Version="1.0.0.0" />
 
     <mp:PhoneIdentity PhoneProductId="1df15c2b-102e-4cfd-8aa4-caa6b970065d" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
     <Properties>
-        <DisplayName>BLE HackMe</DisplayName>
-        <PublisherDisplayName>smartlockpicking.com</PublisherDisplayName>
+        <DisplayName>blehackme</DisplayName>
+        <PublisherDisplayName>lfgaming.nl</PublisherDisplayName>
         <Logo>Assets\StoreLogo-sdk.png</Logo>
     </Properties>
 
@@ -31,7 +31,7 @@
         <Application Id="BleHackme.App"
           Executable="$targetnametoken$.exe" EntryPoint="App">
             <uap:VisualElements
-              DisplayName="BLE HackMe"
+              DisplayName="BLE HackMe test"
               Description="Bluetooth Low Energy HackMe - simulated device to learn basics of BLE security."
               BackgroundColor="white" Square150x150Logo="Assets\squareTile-sdk.png" Square44x44Logo="Assets\SmallTile-sdk.png">
                 <uap:SplashScreen  BackgroundColor="white" Image="Assets\Splash-sdk.png"/>

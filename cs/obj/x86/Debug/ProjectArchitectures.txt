@@ -1,0 +1,1 @@
+C:\Users\micro\Documents\GitHub\BLE_HackMe\cs\BLE_Hackme.csproj;x86
